@@ -14,7 +14,7 @@ function reverse(userWord) {
         const wordLetter = userWord[i];
         reverseWord += wordLetter;
     }
-    return reverseWordArray; 
+    return reverseWord; 
 }
 
 // INVOCAZIONE DELLA FUNZIONE
