@@ -22,7 +22,7 @@ reverse(userChoice);
 console.log(reverse(userChoice));
 
 // ISTRUZIONE CONDIZIONALE
-if (userChoice === reverseWordArray ) {
+if (userChoice === reverseWord) {
     console.log("Parola palindroma");
 } else {
     console.log("Parola non palindroma");
